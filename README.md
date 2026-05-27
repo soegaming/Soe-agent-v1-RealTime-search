@@ -17,3 +17,4 @@ AI Agent CLI yang bisa search Google real-time pake Gemini API.
 - [x] Level 1: Real-time Search 
 - [ ] Level 2: Conversation Memory
 - [ ] Level 3: Tool Calling
+- [x] Level 2: Conversation Memory with google-genai + serialization
